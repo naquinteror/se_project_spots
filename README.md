@@ -19,4 +19,4 @@ On mobile devices, the profile will display only one card per row, with a minimu
 
 ### Deployment
 
-- [Link to GitHub Pages:] (https://naquinteror.github.io/se_project_spots/)
+- Link to GitHub Pages: https://naquinteror.github.io/se_project_spots/
