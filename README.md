@@ -5,6 +5,7 @@
 - Description
 - Tech Stack
 - Deployment
+- Video
 
 ### Description
 
@@ -20,3 +21,7 @@ On mobile devices, the profile will display only one card per row, with a minimu
 ### Deployment
 
 - Link to GitHub Pages: https://naquinteror.github.io/se_project_spots/
+
+### Video
+
+- Link to the project's video: https://drive.google.com/file/d/1aWPBjxXT1_Zv_xUQAbyU2cWkWz6jXWlA/view?usp=sharing
