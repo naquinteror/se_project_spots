@@ -11,7 +11,7 @@
   align-items: center;
 }
 
-.modal--is-opened {
+.modal--opened {
   visibility: hidden;
 }
 
